@@ -21,6 +21,7 @@
     "keyWord": "6,3,9",
     "title": "TOMARKET TOOL",
     "versionNew": "1.0.1",
+    "ErrorLimit": 2,
     "skipTask": [
         5010,
         5011,
