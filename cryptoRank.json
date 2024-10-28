@@ -10,7 +10,15 @@
     "title": "CRYPTO TOOL",
     "versionNew": "1.0.1",
     "ErrorLimit": 2,
-    "skipTask": [],
+    "skipTask": [
+        "709bea8b-4044-4203-b614-b1bda4424d3d",
+        "324dc84b-9bea-433c-8035-8d1c161727d8",
+        "78784743-bddc-42fb-9845-8c57dfba64d3",
+        "cdd8ac0b-c800-4531-8905-500ef4a9c9d5",
+        "848db658-afb6-4d02-b0be-a37424b516a8",
+        "82524d74-a7ca-4135-89a4-d3a9e4a57f10",
+        "d5c17e95-e9ec-4e59-b6f1-9534614cb5fd"
+    ],
     "fonts": {
         "Poison": "Poison",
         "Puffy": "Puffy",
