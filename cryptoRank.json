@@ -1,0 +1,76 @@
+{
+    "url": {
+        "getUserName": "https://api.cryptorank.io/v0/tma/telegram-data/name?telegramIds=",
+        "balance": "https://api.cryptorank.io/v0/tma/account",
+        "farming": "https://api.cryptorank.io/v0/tma/account/start-farming",
+        "claimFarm": "https://api.cryptorank.io/v0/tma/account/end-farming",
+        "getTaks": "https://api.cryptorank.io/v0/tma/account/tasks",
+        "claimTask": "https://api.cryptorank.io/v0/tma/account/claim/task/"
+    },
+    "title": "CRYPTO TOOL",
+    "versionNew": "1.0.1",
+    "ErrorLimit": 2,
+    "skipTask": [],
+    "fonts": {
+        "Poison": "Poison",
+        "Puffy": "Puffy",
+        "Mini": "Mini",
+        "Crawford": "Crawford",
+        "Bubble": "Bubble"
+    },
+    "listInfo": {
+        "tool phát triển bởi": {
+            "preIcon": "   🎯",
+            "lastIcon": "🚀",
+            "value": "DMQuan03",
+            "color": "yellow"
+        },
+        "version": {
+            "preIcon": "   🎯",
+            "lastIcon": "📌",
+            "value": "1.0.1",
+            "color": "yellow"
+        },
+        "telegram": {
+            "preIcon": "   🎯",
+            "lastIcon": "✈️",
+            "value": "@Quan305",
+            "color": "magenta"
+        },
+        "facebook": {
+            "preIcon": "   🎯",
+            "lastIcon": "🌍",
+            "value": "Duong Minh Quan",
+            "color": "cyan"
+        },
+        "phone": {
+            "preIcon": "   🎯",
+            "lastIcon": "☎️",
+            "value": "0347361545",
+            "color": "yellow"
+        },
+        "feture": {
+            "preIcon": "   🎯",
+            "lastIcon": "🌈",
+            "value": "👉 diem danh\n\t\t   👉 auto farm\n\t\t   👉 auto task\n\t\t   👉 choi game\n\t\t   👉 auto spin\n\t\t   👉 auto puzzle",
+            "color": "yellow"
+        },
+        "noti": {
+            "preIcon": "\n   🎯",
+            "lastIcon": "",
+            "value": "đã có phiên bản mới lấy tại telegram @Quan305",
+            "color": "yellow"
+        },
+        "note": {
+            "preIcon": "\n   💡",
+            "lastIcon": "",
+            "value": "nếu lỗi lấy lại token nhé",
+            "color": "yellow"
+        }
+    },
+    "listKey": [
+        "auto farm",
+        "auto task",
+        "auto friend"
+    ]
+}
