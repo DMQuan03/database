@@ -55,5 +55,43 @@
         "Bubble": "Bubble"
     },
     "note": "chạy vừa luồng thôi tránh lỗi nhé !",
-    "newVersion": "đã có phiên bản mới nhất tại telegram @Quan3005"
+    "newVersion": "đã có phiên bản mới nhất tại telegram @Quan3005",
+    "listInfo": {
+        "tool phát triển bởi": {
+            "preIcon": "🎯",
+            "lastIcon": "🚀"
+        },
+        "version": {
+            "preIcon": "🎯",
+            "lastIcon": "📌"
+        },
+        "telegram": {
+            "preIcon": "🎯",
+            "lastIcon": "✈️"
+        },
+        "facebook": {
+            "preIcon": "🎯",
+            "lastIcon": "🌍"
+        },
+        "phone": {
+            "preIcon": "🎯",
+            "lastIcon": "☎️"
+        },
+        "feture": {
+            "preIcon": "🎯",
+            "lastIcon": "🌈"
+        },
+        "noti": {
+            "preIcon": "💡",
+            "lastIcon": ""
+        }
+    },
+    "listKey": [
+        "daily",
+        "auto farm",
+        "auto game",
+        "auto task",
+        "auto puzzle",
+        "auto spin"
+    ]
 }
