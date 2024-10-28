@@ -60,7 +60,7 @@
         "feture": {
             "preIcon": "   🎯",
             "lastIcon": "🌈",
-            "value": "👉 auto farm\n\t\t   👉 auto task\n\t\t   👉 auto friend",
+            "value": "👉 auto farm\n\t\t   👉 auto task\n\t\t",
             "color": "yellow"
         },
         "noti": {
@@ -78,7 +78,6 @@
     },
     "listKey": [
         "auto farm",
-        "auto task",
-        "auto friend"
+        "auto task"
     ]
 }
