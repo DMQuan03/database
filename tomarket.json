@@ -59,31 +59,43 @@
     "listInfo": {
         "tool phát triển bởi": {
             "preIcon": "🎯",
-            "lastIcon": "🚀"
+            "lastIcon": "🚀",
+            "value": "DMQuan03"
         },
         "version": {
             "preIcon": "🎯",
-            "lastIcon": "📌"
+            "lastIcon": "📌",
+            "value": "1.0.1"
         },
         "telegram": {
             "preIcon": "🎯",
-            "lastIcon": "✈️"
+            "lastIcon": "✈️",
+            "value": "@Quan305"
         },
         "facebook": {
             "preIcon": "🎯",
-            "lastIcon": "🌍"
+            "lastIcon": "🌍",
+            "value": "Duong Minh Quan"
         },
         "phone": {
             "preIcon": "🎯",
-            "lastIcon": "☎️"
+            "lastIcon": "☎️",
+            "value": "0347361545"
         },
         "feture": {
             "preIcon": "🎯",
-            "lastIcon": "🌈"
+            "lastIcon": "🌈",
+            "value": "👉 diem danh\n\t\t   👉 auto farm\n\t\t   👉 auto task\n\t\t   👉 choi game\n\t\t   👉 auto spin\n\t\t   👉 auto puzzle"
         },
         "noti": {
+            "preIcon": "🎯",
+            "lastIcon": "",
+            "value": "đã có phiên bản mới lấy tại telegram @Quan305"
+        },
+        "note": {
             "preIcon": "💡",
-            "lastIcon": ""
+            "lastIcon": "",
+            "value": "chạy vừa luồng thôi tránh lỗi nhé !"
         }
     },
     "listKey": [
