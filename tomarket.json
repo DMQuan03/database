@@ -19,13 +19,8 @@
         "updateRank": "https://api-web.tomarket.ai/tomarket-game/v1/rank/upgrade"
     },
     "keyWord": "6,3,9",
-    "author": "DMQuan03",
-    "facebook": "Dương Minh Quân",
-    "contactTele": "@Quan3005",
-    "phone": "0347361545",
     "title": "TOMARKET TOOL",
     "versionNew": "1.0.1",
-    "feutures": "👉 diem danh\n\t\t   👉 auto farm\n\t\t   👉 auto task\n\t\t   👉 choi game\n\t\t   👉 auto spin\n\t\t   👉 auto puzzle",
     "skipTask": [
         5010,
         5011,
@@ -85,7 +80,7 @@
         "feture": {
             "preIcon": "   🎯",
             "lastIcon": "🌈",
-            "value": "👉 diem danh\n\t\t\t      👉 auto farm\n\t\t\t     👉 auto task\n\t\t\t     👉 choi game\n\t\t\t     👉 auto spin\n\t\t\t    👉 auto puzzle"
+            "value": " 👉 diem danh\n\t\t   👉 auto farm\n\t\t   👉 auto task\n\t\t   👉 choi game\n\t\t   👉 auto spin\n\t\t   👉 auto puzzle"
         },
         "noti": {
             "preIcon": "   🎯",
