@@ -89,14 +89,16 @@
             "color": "yellow"
         },
         "noti": {
-            "preIcon": "   🎯",
+            "preIcon": "\n   🎯",
             "lastIcon": "",
-            "value": "đã có phiên bản mới lấy tại telegram @Quan305"
+            "value": "đã có phiên bản mới lấy tại telegram @Quan305",
+            "color": "yellow"
         },
         "note": {
             "preIcon": "\n   💡",
             "lastIcon": "",
-            "value": "chạy vừa luồng thôi tránh lỗi nhé !"
+            "value": "chạy vừa luồng thôi tránh lỗi nhé !",
+            "color": "yellow"
         }
     },
     "listKey": [
