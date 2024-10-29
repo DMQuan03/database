@@ -1,0 +1,72 @@
+{
+    "url": {
+        "auth": "https://api.paws.community/v1/user/auth",
+        "rank": "https://api.paws.community/v1/user/leaderboard?page=0&limit=1",
+        "getTaks": "https://api.paws.community/v1/quests/list",
+        "completedTask": "https://api.paws.community/v1/quests/completed"
+    },
+    "title": "PAWS TOOL",
+    "versionNew": "1.0.1",
+    "ErrorLimit": 2,
+    "skipTask": [],
+    "fonts": {
+        "Poison": "Poison",
+        "Puffy": "Puffy",
+        "Mini": "Mini",
+        "Crawford": "Crawford",
+        "Bubble": "Bubble"
+    },
+    "listInfo": {
+        "tool phát triển bởi": {
+            "preIcon": "   🎯",
+            "lastIcon": "🚀",
+            "value": "DMQuan03",
+            "color": "yellow"
+        },
+        "version": {
+            "preIcon": "   🎯",
+            "lastIcon": "📌",
+            "value": "1.0.1",
+            "color": "yellow"
+        },
+        "telegram": {
+            "preIcon": "   🎯",
+            "lastIcon": "✈️",
+            "value": "@Quan305",
+            "color": "magenta"
+        },
+        "facebook": {
+            "preIcon": "   🎯",
+            "lastIcon": "🌍",
+            "value": "Duong Minh Quan",
+            "color": "cyan"
+        },
+        "phone": {
+            "preIcon": "   🎯",
+            "lastIcon": "☎️",
+            "value": "0347361545",
+            "color": "yellow"
+        },
+        "feture": {
+            "preIcon": "   🎯",
+            "lastIcon": "🌈",
+            "value": "👉 auto task",
+            "color": "yellow"
+        },
+        "noti": {
+            "preIcon": "\n   🎯",
+            "lastIcon": "",
+            "value": "đã có phiên bản mới lấy tại telegram @Quan305",
+            "color": "yellow"
+        },
+        "note": {
+            "preIcon": "\n   💡",
+            "lastIcon": "",
+            "value": "chạy vừa luồng thôi tránh lỗi nhé !",
+            "color": "yellow"
+        }
+    },
+    "listKey": [
+        "auto task"
+    ]
+}
