@@ -3,7 +3,8 @@
         "auth": "https://api.paws.community/v1/user/auth",
         "rank": "https://api.paws.community/v1/user/leaderboard?page=0&limit=1",
         "getTasks": "https://api.paws.community/v1/quests/list",
-        "completedTask": "https://api.paws.community/v1/quests/completed"
+        "completedTask": "https://api.paws.community/v1/quests/completed",
+        "claimTask": "https://api.paws.community/v1/quests/claim"
     },
     "title": "PAWS TOOL",
     "versionNew": "1.0.1",
