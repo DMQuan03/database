@@ -2,7 +2,7 @@
     "url": {
         "auth": "https://api.paws.community/v1/user/auth",
         "rank": "https://api.paws.community/v1/user/leaderboard?page=0&limit=1",
-        "getTaks": "https://api.paws.community/v1/quests/list",
+        "getTasks": "https://api.paws.community/v1/quests/list",
         "completedTask": "https://api.paws.community/v1/quests/completed"
     },
     "title": "PAWS TOOL",
