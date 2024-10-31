@@ -18,7 +18,7 @@
         "startSpin": "https://api-web.tomarket.ai/tomarket-game/v1/spin/raffle",
         "updateRank": "https://api-web.tomarket.ai/tomarket-game/v1/rank/upgrade"
     },
-    "keyWord": "7,1,9",
+    "keyWord": "10,12,2",
     "title": "TOMARKET TOOL",
     "versionNew": "1.0.1",
     "ErrorLimit": 2,
