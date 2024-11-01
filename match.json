@@ -1,0 +1,90 @@
+{
+    "url": {
+        "auth": "https://api-web.tomarket.ai/tomarket-game/v1/user/login",
+        "balance": "https://api-web.tomarket.ai/tomarket-game/v1/user/balance",
+        "rank": "https://api-web.tomarket.ai/tomarket-game/v1/rank/data",
+        "farming": "https://api-web.tomarket.ai/tomarket-game/v1/farm/start",
+        "claimFarm": "https://api-web.tomarket.ai/tomarket-game/v1/farm/claim",
+        "dailyClaim": "https://api-web.tomarket.ai/tomarket-game/v1/daily/claim",
+        "startGame": "https://api-web.tomarket.ai/tomarket-game/v1/game/play",
+        "endGame": "https://api-web.tomarket.ai/tomarket-game/v1/game/claim",
+        "getTaks": "https://api-web.tomarket.ai/tomarket-game/v1/tasks/list",
+        "claimTask": "https://api-web.tomarket.ai/tomarket-game/v1/tasks/claim",
+        "checkStatusTask": "https://api-web.tomarket.ai/tomarket-game/v1/tasks/check",
+        "startTask": "https://api-web.tomarket.ai/tomarket-game/v1/tasks/start",
+        "puzzleGet": "https://api-web.tomarket.ai/tomarket-game/v1/tasks/puzzle",
+        "puzzleCheck": "https://api-web.tomarket.ai/tomarket-game/v1/tasks/puzzleClaim",
+        "ticketsSpinCheck": "https://api-web.tomarket.ai/tomarket-game/v1/user/tickets",
+        "startSpin": "https://api-web.tomarket.ai/tomarket-game/v1/spin/raffle",
+        "updateRank": "https://api-web.tomarket.ai/tomarket-game/v1/rank/upgrade"
+    },
+    "title": "MATCH TOOL",
+    "versionNew": "1.0.1",
+    "ErrorLimit": 2,
+    "skipTask": [],
+    "fonts": {
+        "Poison": "Poison",
+        "Puffy": "Puffy",
+        "Mini": "Mini",
+        "Crawford": "Crawford",
+        "Bubble": "Bubble"
+    },
+    "gameId": "59bcd12e-04e2-404c-a172-311a0084587d",
+    "farmId": "53b22103-c7ff-413d-bc63-20f6fb806a07",
+    "listInfo": {
+        "tool phát triển bởi": {
+            "preIcon": "   🎯",
+            "lastIcon": "🚀",
+            "value": "DMQuan03",
+            "color": "yellow"
+        },
+        "version": {
+            "preIcon": "   🎯",
+            "lastIcon": "📌",
+            "value": "1.0.1",
+            "color": "yellow"
+        },
+        "telegram": {
+            "preIcon": "   🎯",
+            "lastIcon": "✈️",
+            "value": "@Quan305",
+            "color": "magenta"
+        },
+        "facebook": {
+            "preIcon": "   🎯",
+            "lastIcon": "🌍",
+            "value": "Duong Minh Quan",
+            "color": "cyan"
+        },
+        "phone": {
+            "preIcon": "   🎯",
+            "lastIcon": "☎️",
+            "value": "0347361545",
+            "color": "yellow"
+        },
+        "feture": {
+            "preIcon": "   🎯",
+            "lastIcon": "🌈",
+            "value": "👉 diem danh\n\t\t   👉 auto farm\n\t\t   👉 auto task\n\t\t   👉 choi game\n\t\t   👉 auto spin\n\t\t   👉 auto puzzle",
+            "color": "yellow"
+        },
+        "noti": {
+            "preIcon": "\n   🎯",
+            "lastIcon": "",
+            "value": "đã có phiên bản mới lấy tại telegram @Quan305",
+            "color": "yellow"
+        },
+        "note": {
+            "preIcon": "\n   💡",
+            "lastIcon": "",
+            "value": "chạy vừa luồng thôi tránh lỗi nhé !",
+            "color": "yellow"
+        }
+    },
+    "listKey": [
+        "daily",
+        "auto farm",
+        "auto game",
+        "auto task"
+    ]
+}
