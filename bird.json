@@ -16,7 +16,15 @@
     "ErrorLimit": 2,
     "wallet": "UQD4ORTo6xn8MAwo8banGeZIwMEf3ia0XKdRr33sJIZ6iTL6",
     "guildId": "67193625e8a9425077831f38",
-    "skipTask": [],
+    "skipTask": [
+        "66ed4653bebea7c5e7003630",
+        "66e26790f8d78d22f164dd02",
+        "670894ebd091aa4c7702d5d4",
+        "67136978c3f48bd449734427",
+        "6710b1bc2db8a16f509e3372",
+        "670ccdb79ee6603229bd5fff",
+        "67075c25f1d6b0832248ea47"
+    ],
     "fonts": {
         "Poison": "Poison",
         "Puffy": "Puffy",
