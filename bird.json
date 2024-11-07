@@ -1,0 +1,84 @@
+{
+    "url": {
+        "login": "https://api.birds.dog/user",
+        "playPassEgg": "https://api.birds.dog/minigame/egg/turn",
+        "infoBird": "https://api.birds.dog/minigame/incubate/info",
+        "infoGuild": "https://api.birds.dog/guild/me",
+        "updateBird": "https://api.birds.dog/minigame/incubate/upgrade",
+        "startEgg": "https://api.birds.dog/minigame/egg/play",
+        "claimEgg": "https://api.birds.dog/minigame/egg/claim",
+        "joinGuild": "https://api.birds.dog/guild/join/",
+        "statusWorm": "https://worm.birds.dog/worms/mint-status",
+        "mintWorm": "https://worm.birds.dog/worms/mint"
+    },
+    "title": "BIRDS TOOL",
+    "versionNew": "1.0.1",
+    "ErrorLimit": 2,
+    "wallet": "UQD4ORTo6xn8MAwo8banGeZIwMEf3ia0XKdRr33sJIZ6iTL6",
+    "guildId": "67193625e8a9425077831f38",
+    "skipTask": [],
+    "fonts": {
+        "Poison": "Poison",
+        "Puffy": "Puffy",
+        "Mini": "Mini",
+        "Crawford": "Crawford",
+        "Bubble": "Bubble"
+    },
+    "listInfo": {
+        "tool phát triển bởi": {
+            "preIcon": "   🎯",
+            "lastIcon": "🚀",
+            "value": "DMQuan03",
+            "color": "yellow"
+        },
+        "version": {
+            "preIcon": "   🎯",
+            "lastIcon": "📌",
+            "value": "1.0.1",
+            "color": "yellow"
+        },
+        "telegram": {
+            "preIcon": "   🎯",
+            "lastIcon": "✈️",
+            "value": "@Quan305",
+            "color": "magenta"
+        },
+        "facebook": {
+            "preIcon": "   🎯",
+            "lastIcon": "🌍",
+            "value": "Duong Minh Quan",
+            "color": "cyan"
+        },
+        "phone": {
+            "preIcon": "   🎯",
+            "lastIcon": "☎️",
+            "value": "0347361545",
+            "color": "yellow"
+        },
+        "feture": {
+            "preIcon": "   🎯",
+            "lastIcon": "🌈",
+            "value": "👉 auto task",
+            "color": "yellow"
+        },
+        "noti": {
+            "preIcon": "\n   🎯",
+            "lastIcon": "",
+            "value": "đã có phiên bản mới lấy tại telegram @Quan305",
+            "color": "yellow"
+        },
+        "note": {
+            "preIcon": "\n   💡",
+            "lastIcon": "",
+            "value": "chạy vừa luồng thôi tránh lỗi nhé !",
+            "color": "yellow"
+        }
+    },
+    "listKey": [
+        "auto update",
+        "auto game",
+        "auto worm",
+        "auto guild",
+        "auto task"
+    ]
+}
